@@ -2,7 +2,7 @@
 
 An end-to-end churn analysis project built on a 7,043-customer telecom dataset, designed around a **Who → When → Why** narrative structure across three dashboard pages.
 
-![Dashboard Preview](assets/overview_page.png)
+![Dashboard Preview](assets/1-overview_page.png)
 
 ---
 
@@ -123,13 +123,22 @@ Contract type describes a service commitment, not a point in the customer's time
 ## 📊 Dashboard Structure (Who → When → Why)
 
 **Page 1 — Overview**
+
 KPIs, customer status distribution, and side-by-side comparison panels (All Customers vs. Churned Customers) across marital status, dependents, and age group.
 
+![Dashboard Preview](assets/1-overview.png)
+
 **Page 2 — Churn Patterns**
+
 Churn by tenure stage, churn rate by contract type, average tenure before churn by contract, and top 5 cities by churn rate — establishing *when* and *where* churn concentrates.
 
+![Churn Patterns](assets/2-churn-patterns.png)
+
 **Page 3 — Services and Reasons**
+
 Phone/Internet service comparison, churn rate by internet type, and churn reason breakdown — the evidentiary layer explaining *why* customers leave.
+
+![Services and Reasons](assets/3-services-and-reasons.png)
 
 ---
 
@@ -168,4 +177,4 @@ Power BI Desktop · Power Query (M) · DAX
 
 ## 👤 Author
 
-Hesham — Business Administration & Finance graduate transitioning into Data Analytics, currently in the Digital Egypt Builders Initiative (DEBI) program.
+Hesham — Finance graduate and Data Analyst, currently in the Digital Egypt Builders Initiative (DEBI) program.
