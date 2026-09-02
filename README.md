@@ -2,7 +2,7 @@
 
 An end-to-end churn analysis project built on a 7,043-customer telecom dataset, designed around a **Who → When → Why** narrative structure across three dashboard pages.
 
-![Dashboard Preview](assets/1-overview_page.png)
+![Dashboard Preview](assets/1-overview.png)
 
 ---
 
